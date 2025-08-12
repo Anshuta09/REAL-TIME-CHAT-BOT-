@@ -18,3 +18,5 @@
 
 *Styling*: Custom CSS with responsive layout
 
+*OUTPUT*
+<img width="1919" height="858" alt="Image" src="https://github.com/user-attachments/assets/40290cae-fa21-4531-8d14-302070da1899" />
